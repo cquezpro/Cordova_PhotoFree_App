@@ -1,0 +1,10 @@
+{
+    "daysUntilPrompt": 3,
+    "usesUntilPrompt": 10,
+    "messageTitle": "Thanks for playing!",
+    "message": "We hope you're having fun! Please help us continue improving What The Photo? by rating us in the App Store!",
+    "onlyPromptIfLatestVersion": 0,
+    "rateButtonLabel": "Rate Five Stars!",
+    "remindButtonLabel": "Remind Me Later",
+    "cancelButtonLabel": "Unsubscribe"
+}

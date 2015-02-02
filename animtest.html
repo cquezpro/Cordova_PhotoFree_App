@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="scripts/lib/modernizr.js"></script>
+	<script>
+	var RR = {};
+
+	
+	window.addEventListener('load', function(){
+		Modernizr.load([{
+			load: [
+				'scripts/lib/zepto.js',
+				'scripts/animator.js'
+			], 
+			complete: function () {
+				
+				var animator1 = RR.animator("#scene1 .holder");
+
+
+				$('#scene1 a').bind('click', function(){
+					animator1.init(this.href, function(){
+						animator1.play(1);
+						
+					});
+					return false;
+				});
+
+			}
+			}
+		]);
+	});
+	</script>
+	<style>
+	 .scene {  display: inline-block; }
+	 .holder{ width:500px; }
+	</style>
+   </head>
+<body>
+    
+<div id="scene1" class="scene" >
+    <a href="ani/goodjob.html" >Good Job</a><br/>
+    
+        <div class="holder"></div>
+</div>
+</body>
+</html>

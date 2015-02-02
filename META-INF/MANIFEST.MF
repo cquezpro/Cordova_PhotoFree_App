@@ -1,0 +1,905 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/redesign-images/arrows/blue.png
+SHA1-Digest: Nw6Vtm2vTlevjzgrrICHgFuCE8E=
+
+Name: assets/www/fonts/jandamanatee/jandamanatee.svg
+SHA1-Digest: mNRwZjh+z9vVWdKxrQltCew89t8=
+
+Name: assets/www/redesign-images/buttons/nudge.png
+SHA1-Digest: VKqRtQQVpEO9ULXibwhYFY3JZ/I=
+
+Name: assets/www/redesign-images/arrows/yellow.png
+SHA1-Digest: kK1RwVygaFDiV6T2+vRiUZTy3Fw=
+
+Name: assets/www/redesign-images/chat/chat-button-icon.png
+SHA1-Digest: iwfKCEBIVQFCGJOUNLksNmpKwRw=
+
+Name: res/drawable-hdpi/icon_push.png
+SHA1-Digest: iU/S0cigafgkwJ+q9qlzJk6oUfw=
+
+Name: assets/www/styles/main.css
+SHA1-Digest: M7LjTUPmZhrh0UQ02c+s+7+yqhY=
+
+Name: assets/www/redesign-images/logos/rumpus.png
+SHA1-Digest: +rgo4TlpgsnLyLdOisuJKdGR9tw=
+
+Name: assets/www/redesign-images/chat/chat-button-bg.jpg
+SHA1-Digest: 3XLBogThKbcKkrjTPuTs+zAPT9Q=
+
+Name: res/xml/plugins.xml
+SHA1-Digest: w56JV4DOk1OLwvFrq8XHXGVVZuA=
+
+Name: assets/www/ani_V2/assets/Head.png
+SHA1-Digest: HeztYJuk628//jitf99SLS+H/Ws=
+
+Name: assets/www/scripts/loader.js
+SHA1-Digest: T/GTxOIFTEqNi72lYcjdPwUx1K4=
+
+Name: res/drawable-mdpi/friend_picker_no_avatar.png
+SHA1-Digest: NZkvvLw/zZ+jh6FWs3vgFuR04EY=
+
+Name: assets/close.png
+SHA1-Digest: /cZWcu4OPuUFfsI67QYCnyQOiOU=
+
+Name: assets/www/redesign-images/background-tile.jpg
+SHA1-Digest: TBRhyysFuE8rRJVJe+fDG9vKdNQ=
+
+Name: assets/www/redesign-images/buttons/get-started.png
+SHA1-Digest: EgrcV5cTWeyl1F53yA1RSHfApVI=
+
+Name: assets/www/redesign-images/buttons/new-game.png
+SHA1-Digest: /1JY2fOVEICXBX0Lak9IVJTtIJc=
+
+Name: assets/www/fonts/geo/geo-regular.ttf
+SHA1-Digest: h6WpmxrfEnc0VdosGzXNqzZjy+s=
+
+Name: assets/www/ani_V2/assets/clouds_MID.png
+SHA1-Digest: 7TAlMeuoNTWiNPPQynbX8bASBrE=
+
+Name: assets/www/fonts/HelveticaNeueLTStd-Cn/helveticaneueltstd-cn.ttf
+SHA1-Digest: gt3BV4muwC7YBcFVPQt0lnEVka8=
+
+Name: assets/www/snd/letter_drop.ogg
+SHA1-Digest: Q8QJ08XjybT89k/XW9izBq6h/yE=
+
+Name: assets/www/scripts/plugins/EmailComposer.js
+SHA1-Digest: 5lYyZ63NrYsiJvPQB5rU6lsj0Ik=
+
+Name: assets/www/redesign-images/buttons/login.png
+SHA1-Digest: OjgwkudTPdDzWsxUw7wVz+FBCvM=
+
+Name: assets/flurryconfig.properties
+SHA1-Digest: kjxcKs+jjjrmqLZpWxEx+1hXDKw=
+
+Name: assets/www/snd/win.ogg
+SHA1-Digest: 5nCT1l3DZoDMiSpMz7Zk5G6tUkY=
+
+Name: assets/www/snd/lose.ogg
+SHA1-Digest: N4z+S0wjk6L/OHW9BZA8bblpb8M=
+
+Name: res/drawable-mdpi/facebook_icon.png
+SHA1-Digest: 9jTbeG4b8nJZlZss16UPfagqlUs=
+
+Name: org/codehaus/jackson/impl/VERSION.txt
+SHA1-Digest: yM3Crk4/NAM4e4L8QfsvaFgbDEI=
+
+Name: res/drawable-mdpi/twitterclose.png
+SHA1-Digest: LzSsj0na9mfdL2AFaKjVetdCzNI=
+
+Name: assets/config.xml
+SHA1-Digest: 1HmFsI+ZuVQPIWHjXyyLIb42AL0=
+
+Name: res/drawable-hdpi/friend_picker_no_avatar.png
+SHA1-Digest: Uv7OxhSd+wHI0rQ6QV4jiRhgsuE=
+
+Name: assets/www/redesign-images/chat/their-message/middle-middle.jpg
+SHA1-Digest: TlH7qXp7ofhUEWAU8k+tIl+xKwE=
+
+Name: assets/www/ani_V2/assets/tear1.png
+SHA1-Digest: AGqF1eCbI21EScmKgT0Cr9aBiHY=
+
+Name: bitmaps/close_button.png
+SHA1-Digest: 9G7qW6CeOmgayR6Y2h6LkrUhrlU=
+
+Name: assets/www/fonts/slackey/slackey.eot
+SHA1-Digest: NUtulYOyQyw1azyJwGZdGi5lEPU=
+
+Name: assets/www/snd/letter_pickup.mp3
+SHA1-Digest: IIUkdpO5j+q81Nxw0P5s4hma8C4=
+
+Name: assets/www/styles/portrait.css
+SHA1-Digest: UPm5yE1FdSbv1snUTia+JrlHekg=
+
+Name: assets/www/redesign-images/buttons/watch.png
+SHA1-Digest: qNFei/0gpiIGRyjWjXcS87rvFWA=
+
+Name: assets/www/redesign-images/buttons/thumbnails-play.png
+SHA1-Digest: 8BvLPGTJbM42JBasehoSuEE53rI=
+
+Name: assets/www/redesign-images/game-board/header-yellow-bg.png
+SHA1-Digest: yoF2HsjoTwNJ/jwm4a5/0cuAAuQ=
+
+Name: assets/www/styles/android.css
+SHA1-Digest: On9k5fdGWHznItBRenb5QWiQIKo=
+
+Name: assets/www/redesign-images/game-board/message-button.png
+SHA1-Digest: RMsf4/yuRwKf2UJ8ag/cF74fQ6s=
+
+Name: assets/www/redesign-images/check-box.png
+SHA1-Digest: vlyCLt2HUv0uhFxexktRuNjRI2c=
+
+Name: assets/www/redesign-images/icons/large-coins-pack.png
+SHA1-Digest: +SobuyzJ7H7QiNv6/gMFu1TOZJ8=
+
+Name: assets/www/ani_V2/assets/Arm.png
+SHA1-Digest: mZXF/wkwRjpnuA97Toxkh7+tOA4=
+
+Name: assets/www/fonts/jandamanatee/jandamanatee.eot
+SHA1-Digest: D1toowfNRMX7Od5rU4AiF+Uxz/U=
+
+Name: assets/www/scripts/lib/jquery-1.7.1.min.js
+SHA1-Digest: nrmsWV6bVUTi3Hn/980tC0te9x8=
+
+Name: assets/www/scripts/lib/cdv-plugin-fb-connect.js
+SHA1-Digest: JaZIv7Lb6nC+59cTaXkXLPmvexY=
+
+Name: assets/www/snd/letter_drop.mp3
+SHA1-Digest: ihCmlkRtOMbtjkqJYd1KLlRxrNI=
+
+Name: bitmaps/next_arrow_active.png
+SHA1-Digest: NB/fXxfeSHdWz4oaHBawe6xeqkY=
+
+Name: res/drawable-mdpi/close.png
+SHA1-Digest: Nwlm5aDJGXbo6eG5hVvbrq4/cVk=
+
+Name: assets/www/redesign-images/round-bg.png
+SHA1-Digest: FZ61Xd7RLODEswSiAEZMFdmB0bY=
+
+Name: assets/www/animtest.html
+SHA1-Digest: ajD6GW6fcSQs0D2JTd7SpLJvgTQ=
+
+Name: assets/www/redesign-images/icons/timer.png
+SHA1-Digest: JJOYp7MAiJCQwILwU7Hds8HO2AA=
+
+Name: assets/background-240.png
+SHA1-Digest: X/ipZHHp+FjYE8s6pVmfwbrA5Js=
+
+Name: res/drawable-xhdpi/address_book_avatar.png
+SHA1-Digest: peOPlHPhGyQ5UXwX6hgVH8CbLwY=
+
+Name: assets/www/snd/lose.mp3
+SHA1-Digest: QcfagJ4a2RulRjFU81UROWVbwkM=
+
+Name: assets/www/ani_V2/lose.html
+SHA1-Digest: pxhqG3M7DxRMs4T8FeYHD+yJ2og=
+
+Name: res/drawable-xhdpi/friend_picker_no_avatar.png
+SHA1-Digest: kS3sNr21B/VwbMHeMeY8bvxGjlo=
+
+Name: assets/www/redesign-images/titles/green.jpg
+SHA1-Digest: nqriMxWOESvXpCnS9TA8PwB/SaI=
+
+Name: bitmaps/previous_arrow_active.png
+SHA1-Digest: ZnMySGSmhGxj7NDAtZsgcyx6c1Y=
+
+Name: res/drawable-ldpi/close.png
+SHA1-Digest: lg0izCnB1flsd2QqLisbxkcuGyU=
+
+Name: res/values/attrs.xml
+SHA1-Digest: lzd8NzzhV2ClMStIanL70VDhRp4=
+
+Name: assets/www/ani_V2/assets/body.png
+SHA1-Digest: etFl5Nrq3cylixpj1LA5O2W0SME=
+
+Name: assets/www/redesign-images/game-board/header-purple-bg.png
+SHA1-Digest: 9Y4ab2Jk/nYE/8WcmanXLny+3bs=
+
+Name: res/raw/intro.3gp
+SHA1-Digest: jyGgwN4Wjkd73GsjZUb2CfcPHL0=
+
+Name: assets/www/redesign-images/buttons/logout.png
+SHA1-Digest: Ex7AOcChLBl62tN4K0RBv+QOPD4=
+
+Name: assets/www/scripts/lib/modernizr.js
+SHA1-Digest: SvTVy+h92F1C6slEmW17K1Q970A=
+
+Name: assets/www/redesign-images/icons/bomb.png
+SHA1-Digest: cmkeSoQbkUeirpxllixBcdYPve4=
+
+Name: assets/www/emails/share.html
+SHA1-Digest: hdwaB1VbSFHAUfJUxszZTAU0280=
+
+Name: assets/www/snd/click.ogg
+SHA1-Digest: q5QsDg8IkduURIxc03ox4dZKFvI=
+
+Name: assets/www/redesign-images/chat/their-message/bottom-left.jpg
+SHA1-Digest: U77veXTgdgetIgD5x1E60/EkxPA=
+
+Name: assets/www/ani_V2/assets/clouds_top.png
+SHA1-Digest: 67gMDtWkf9qDDY3q+bpZ+hmGscU=
+
+Name: assets/www/redesign-images/chat/their-message/middle-left.jpg
+SHA1-Digest: HlLXYY77bHiIEmRW3uRXo9HLlaM=
+
+Name: assets/www/redesign-images/game-board/timer-button.png
+SHA1-Digest: Z+BR/bNTAZ1MJSHKoXRynVd5lv4=
+
+Name: assets/www/ani_V2/assets/rainbow_seq_58.png
+SHA1-Digest: EV8GH0/8laj2fwIGw/PYY+jeE7Q=
+
+Name: assets/www/ani_V2/assets/lightning1.png
+SHA1-Digest: zAzWHsfSidUFrYcqFG7tQJr6i2A=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: IX0JJufSfNOD3LQyjC+A9ixdCy4=
+
+Name: assets/www/redesign-images/buttons/upload-photo.png
+SHA1-Digest: DVNgGJBp6EkTDaCIo/TyZK2Tv6s=
+
+Name: assets/www/redesign-images/game-board/empty-tile.png
+SHA1-Digest: A+baiHNya8v4cLmlNsLhZBsy1DU=
+
+Name: assets/www/redesign-images/logos/wtp.png
+SHA1-Digest: fc5PCAVk6m7ytcCSMjtXa36qgYA=
+
+Name: assets/www/redesign-images/buttons/take-photo.png
+SHA1-Digest: EI5ONegqr+3bQylk+DWP/fxMg8Q=
+
+Name: assets/www/redesign-images/chat/their-message/top-middle.jpg
+SHA1-Digest: OKX3ZDtLQjpWX79hPtlc9Nxk8Lk=
+
+Name: assets/www/scripts/lib/facebook_js_sdk.js
+SHA1-Digest: 3AIO2tRh8p81lf1RvqNLByzWJek=
+
+Name: assets/www/emails/images/bg-welcome2.jpg
+SHA1-Digest: gS0cTPlGM7DZwHqqzIftWZ9j+58=
+
+Name: assets/www/redesign-images/icons/friends-group.png
+SHA1-Digest: QTOtRbgANl04MHji4cWGRjNj9aw=
+
+Name: assets/www/styles/facebook.css
+SHA1-Digest: ESVbv3HZmqu2L3pKz/qef5RzVn4=
+
+Name: assets/www/redesign-images/chat/messages-count.png
+SHA1-Digest: AMy+I8DX/8bXY/rZFlYgVya3pTI=
+
+Name: assets/www/styles/common.css
+SHA1-Digest: uPWD6L2mAU8xvbXJ5QykOwhlpMM=
+
+Name: assets/www/snd/win.mp3
+SHA1-Digest: bgg/lM1meWHMz7GuNc+gAmrTA0Y=
+
+Name: assets/www/ani_V2/win.html
+SHA1-Digest: 0IZY5c33uLbvqiUhUZGfgvcpY4U=
+
+Name: assets/www/channel.html
+SHA1-Digest: K26yw1mH4Tz7M8CWL2Hgp0ixlbQ=
+
+Name: assets/www/styles/redesign.css
+SHA1-Digest: jfu/zrFYlMMHO/64RuibiNNhJ3I=
+
+Name: assets/www/native/iRate.json
+SHA1-Digest: p2G5kNhJ+zZPEtlDxl+HPK5O4WI=
+
+Name: assets/www/fonts/HelveticaNeueLTStd-Cn/helveticaneueltstd-cn.wof
+ f
+SHA1-Digest: 0d3/WO4Ntlr6q51IJaXPGQJL+mA=
+
+Name: com/vdopia/client/android/VDOAdObject.html
+SHA1-Digest: bt/3EUZaTqtWrvwHCJEqcdPgrY0=
+
+Name: assets/www/redesign-images/icons/username.png
+SHA1-Digest: bNfHiKBEzQEG42KorVjGC10EHpo=
+
+Name: assets/adview.html
+SHA1-Digest: vpqMSJoYv79hNAt7C1cXjFFg+kc=
+
+Name: assets/www/scripts/notification.js
+SHA1-Digest: 6pz5ok9GUfqHu+L89yNc8GVz+mE=
+
+Name: assets/www/redesign-images/lobby-header-bg.png
+SHA1-Digest: aRvASZtGJcZKr11FCYOlpbkJfaQ=
+
+Name: assets/www/ani_V2/assets/wrist.png
+SHA1-Digest: HMDsouw0/eMdzPjbkzHq0v0/4+A=
+
+Name: assets/millennial_left_arrow.png
+SHA1-Digest: ErGBbOWjw5fxc1B51k0zBTuwcl8=
+
+Name: assets/www/index-mobileweb.html
+SHA1-Digest: cH391lG65z59qIYNe5XA4fi4K5g=
+
+Name: assets/www/redesign-images/titles/orange-big.jpg
+SHA1-Digest: nEtfyZWlPA4f9Emf6s2nve+P+y4=
+
+Name: assets/www/redesign-images/avatars/facebook-friend.png
+SHA1-Digest: VrxzX6fKFAxjeAXQptlzUQzWKgA=
+
+Name: assets/forward.png
+SHA1-Digest: AVaFY4SNLj1epWtjyOcIqq6H5rQ=
+
+Name: res/layout/friend_picker_list_item.xml
+SHA1-Digest: tkQQ9sjLEWTWUI/5MGKoTW0lo4Q=
+
+Name: res/layout/twitter.xml
+SHA1-Digest: Q62UDZ7KSiuATJDdt67NrSPILNg=
+
+Name: assets/www/redesign-images/chat/their-message/bottom-middle.jpg
+SHA1-Digest: d9XWAdb7FXrt7zvEDm6FmUeKxmk=
+
+Name: assets/www/redesign-images/chat/your-message/middle-middle.jpg
+SHA1-Digest: nkD62Ohc3ms/NcROX7j+fRWzLX0=
+
+Name: assets/www/scripts/lib/cordova-1.7.0.js
+SHA1-Digest: 8xcXXjqtFptZVU573fjqZsfzUWc=
+
+Name: assets/www/ani_V2/assets/mouth_lose.png
+SHA1-Digest: LvIs5owPpa1iFBD7EQqObso1oDk=
+
+Name: assets/www/ani_V2/assets/BG.png
+SHA1-Digest: 5XbKeLiluXGwzpVYF+DASSQ/6g8=
+
+Name: assets/www/redesign-images/chat/your-message/top-right.jpg
+SHA1-Digest: 86IWIrVS+GMZllhgF1vuZOllaBg=
+
+Name: assets/www/redesign-images/avatars/day-challenge.png
+SHA1-Digest: +MrzajhqsVFhUyE/UTXhlhd9BuI=
+
+Name: assets/www/redesign-images/wtp-man-big.png
+SHA1-Digest: d9NkbA4sMPY2/iFz5cKdvZiNMD4=
+
+Name: assets/www/fonts/slackey/slackey.woff
+SHA1-Digest: bjE4Bm8Kz5bjitK+TUWhoTEw7yM=
+
+Name: assets/airshipconfig.properties
+SHA1-Digest: uIsSnWzq72viMaHPw+MxMiQq/MA=
+
+Name: assets/www/redesign-images/buttons/plus.png
+SHA1-Digest: p3fYjbgmJ6p71Vs58FU/31839Ao=
+
+Name: assets/www/redesign-images/game-board/game-button.png
+SHA1-Digest: t2LmVNG083JqF7Nx8vfoUZU/Y2Y=
+
+Name: res/drawable-hdpi/close.png
+SHA1-Digest: P3HE/cN1DH97qEFhaWUqiBLjuUY=
+
+Name: org/codehaus/jackson/map/VERSION.txt
+SHA1-Digest: yM3Crk4/NAM4e4L8QfsvaFgbDEI=
+
+Name: assets/www/redesign-images/icons/twitter.png
+SHA1-Digest: Yp+qYVOupo7mN21PYnoR17oZnD4=
+
+Name: assets/www/redesign-images/buttons/play.png
+SHA1-Digest: 6Av8FcpTuP4B7anXwncx2HwUG1I=
+
+Name: com/vdopia/client/android/package-tree.html
+SHA1-Digest: kaRRzmcSC+hE2VLXUPik7dgl/Wo=
+
+Name: assets/www/redesign-images/chat/your-message/top-left.jpg
+SHA1-Digest: HkyPgFye4rt/+GfkDUC2MDXE1hk=
+
+Name: assets/www/snd/fail.ogg
+SHA1-Digest: yD1xjgxUaV6G4XvmnUu0ZQHU26Q=
+
+Name: assets/www/redesign-images/buttons/yes.png
+SHA1-Digest: +S0RR0vffHGDg8cyDBxG0XeakOQ=
+
+Name: res/drawable-ldpi/twitterclose.png
+SHA1-Digest: LzSsj0na9mfdL2AFaKjVetdCzNI=
+
+Name: assets/www/fonts/HelveticaNeueLTStd-Cn/helveticaneueltstd-cn.svg
+SHA1-Digest: BUuJeGctgZPsalXty+KivSu78wY=
+
+Name: assets/www/fonts/HelveticaNeueLTStd-HvCn/helveticaneueltstd-hvcn
+ .eot
+SHA1-Digest: +RNOCh+CCHxvZuQABnpMohu+jvE=
+
+Name: assets/www/snd/success.mp3
+SHA1-Digest: GVG5hBqBo26ppQ4tCjDwwWTXwMw=
+
+Name: res/drawable-mdpi/icon_push.png
+SHA1-Digest: sEX0VC2hQN8I5Qcs/qniVgpwDts=
+
+Name: assets/www/emails/password.html
+SHA1-Digest: j1nUtRdP0pRREE6uoKdwnwIvPIM=
+
+Name: assets/www/emails/images/logo.jpg
+SHA1-Digest: FUl3fRoIPN+jUUcBTckYRJ5VSbs=
+
+Name: assets/www/redesign-images/icons/addressbook.png
+SHA1-Digest: DIabK0z4YipXr+r3FoGDRmR65mk=
+
+Name: assets/www/fonts/geo/geo-regular.woff
+SHA1-Digest: CXMTa1V/NQGXukvOXxbOyBmHDQs=
+
+Name: assets/www/redesign-images/chat/close-button.jpg
+SHA1-Digest: ZHcSvlj9ROLYz3L0SAh7QWXQxr0=
+
+Name: assets/www/styles/mobile.css
+SHA1-Digest: pNmjpzu5bE7n6ojHi45B+s1N1Ow=
+
+Name: assets/www/redesign-images/buttons/connect-with-fb.png
+SHA1-Digest: Sqst57/JVYR5t1c2RLwhWTolqoM=
+
+Name: res/drawable-xhdpi/close.png
+SHA1-Digest: 0IaTuYpHdwNgyn8PrCfM4P1LSUM=
+
+Name: assets/www/snd/letter_pickup.ogg
+SHA1-Digest: SzL30uOCdfFv0pjEULUiuAjjTmE=
+
+Name: assets/www/redesign-images/arrows/red.png
+SHA1-Digest: xlOsZUUdDv0Q+bvk0YutehYEPo4=
+
+Name: assets/yozio.key
+SHA1-Digest: jCQGtZqPEY4DsgQlbwRgQmpf5/Q=
+
+Name: assets/www/ani_V2/assets/rainingclouds_seq_08.png
+SHA1-Digest: KrOvOu3Uz7kpw61UEwIFEwt7HZQ=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: MVrzj046uueAZl5TeIUZerc+OeQ=
+
+Name: assets/www/redesign-images/round-number-bg.png
+SHA1-Digest: LZIdRAEiJkG84c0AZHeiIcIy/2w=
+
+Name: res/drawable-ldpi/facebook_icon.png
+SHA1-Digest: lPHIYoqZ+2OpY0LPumyDkUdNdoc=
+
+Name: assets/VidButton_Close_108x72.png
+SHA1-Digest: OPTl2DiWemuf8iavjZO//FxfD4g=
+
+Name: assets/www/redesign-images/chat/your-message/middle-right.jpg
+SHA1-Digest: BXAQ06Fj+NCY2iUs+2gxENaKJzI=
+
+Name: assets/www/ani_V2/assets/lightning2.png
+SHA1-Digest: vMAFvNpKz/C9Vzxh/m28QGzE0Tw=
+
+Name: res/drawable-hdpi/twitterclose.png
+SHA1-Digest: LzSsj0na9mfdL2AFaKjVetdCzNI=
+
+Name: assets/www/emails/images/play-now-btn.png
+SHA1-Digest: x/GcT5Je0RiNqEN9FY6DufLSejw=
+
+Name: assets/adview.js
+SHA1-Digest: 3s/9HzhSJN3h/JcRZi/h9dggMAA=
+
+Name: res/drawable-hdpi/facebook_icon.png
+SHA1-Digest: V2LEVKYg2PFb0nYYOBnKjQliS/s=
+
+Name: assets/www/styles/landscape.css
+SHA1-Digest: wLm6t+ohzZQOF86BuYSD85jPf+w=
+
+Name: assets/www/redesign-images/chat/messages-count-active.png
+SHA1-Digest: S2/JKVBJedApC8NyE+gABe34j2I=
+
+Name: assets/www/redesign-images/wtp-man.png
+SHA1-Digest: 3riTjV9uc9hyvovriCEDxSJiS8I=
+
+Name: assets/www/redesign-images/arrows/azure.png
+SHA1-Digest: q0J3PucVQw7yqzCc6bptclPTdZQ=
+
+Name: assets/www/scripts/lib/jquery-ui-1.8.18.custom.min.js
+SHA1-Digest: NprUWOlWIQdHsWa+OwP7jpsyxik=
+
+Name: assets/Bar_Gradient.png
+SHA1-Digest: Lj8oIT/BYujFlyzqL+8NWefvFig=
+
+Name: assets/www/redesign-images/avatars/default.png
+SHA1-Digest: 3ksSpm6WmkRJZ9RPpg3Walk4DuI=
+
+Name: assets/www/images/avatar-default.png
+SHA1-Digest: 3ksSpm6WmkRJZ9RPpg3Walk4DuI=
+
+Name: assets/www/scripts/plugins/jquery.waitforimages.js
+SHA1-Digest: JArcCGXEQXiq6BsqrxmeG5AAOgE=
+
+Name: assets/www/ani_V2/assets/rainingclouds_seq_09.png
+SHA1-Digest: G5w/Qb7MAnSnowY1PPRT7xrOf2I=
+
+Name: assets/www/redesign-images/check.png
+SHA1-Digest: 3cyaz34MRykN8hMuiRZPDSQVCXk=
+
+Name: assets/www/fonts/HelveticaNeueLTStd-HvCn/helveticaneueltstd-hvcn
+ .svg
+SHA1-Digest: bVuLSrFggptT/EzwkLYrxpRwijY=
+
+Name: assets/www/redesign-images/chat/their-message/top-left.jpg
+SHA1-Digest: eWF5B0HPuLOHUY6rJkgPdL2ciHI=
+
+Name: assets/www/redesign-images/chat/your-message/bottom-middle.jpg
+SHA1-Digest: w38F73190W9CjzWmA89mXMBpkdA=
+
+Name: assets/www/scripts/bundle.js
+SHA1-Digest: mf4D0X75aW7yYclbTOC+glZlW0I=
+
+Name: assets/www/redesign-images/buttons/submit.png
+SHA1-Digest: pY09dHzjrFON9o+8wyDebT9mV9w=
+
+Name: assets/www/fonts/HelveticaNeueLTStd-HvCn/helveticaneueltstd-hvcn
+ .woff
+SHA1-Digest: ZeFPrwo1hgA7WufHycsMVcyoOgQ=
+
+Name: assets/www/redesign-images/game-board/bomb-button.png
+SHA1-Digest: GXoCid0/Ig8QixRoAG04/3DxyPQ=
+
+Name: assets/www/redesign-images/titles/blue-big.jpg
+SHA1-Digest: Rv6Vwjwb+xLnVZRDCRHmPOILEh8=
+
+Name: assets/www/scripts/loader.jsb
+SHA1-Digest: NJF8u/xPtkg+bjaL1yONwhSaf6k=
+
+Name: assets/project.properties
+SHA1-Digest: Ewal0oep7PxoVuw6qQ7PCN4K2gA=
+
+Name: res/layout/splash.xml
+SHA1-Digest: mN91uxoH0Lo0EHgDU/eYP8y9KW8=
+
+Name: assets/www/redesign-images/chat/send-button.png
+SHA1-Digest: 7rpb4a2PP3gIo5JBNDkkEX6Hrzg=
+
+Name: assets/www/redesign-images/buttons/shop.png
+SHA1-Digest: RO1S/e+I0Bx1Q61yMzoYaokMv+E=
+
+Name: assets/www/redesign-images/spinners/loading-anim.gif
+SHA1-Digest: FOjOsCLDnuM/Rto4M2DsyZfYVo4=
+
+Name: assets/mmbridge.js
+SHA1-Digest: fcBlFvA9II9BpcVR7guOxepeWfc=
+
+Name: assets/www/redesign-images/titles/grey.jpg
+SHA1-Digest: oHRTg5XJZ/yIm9kdZsr2OR4YRR4=
+
+Name: res/drawable-xhdpi/icon_push.png
+SHA1-Digest: XF0R0GnAWXhbR0Ll2XIRuh7DhvM=
+
+Name: assets/www/redesign-images/icons/facebook.png
+SHA1-Digest: dA0zkZ7YEkDtKjdtO6h0hmhlsTI=
+
+Name: assets/www/redesign-images/buttons/delete.png
+SHA1-Digest: qfeRqIQvWNMmWkHaAE/TRcPkMFI=
+
+Name: assets/www/redesign-images/photo-error.png
+SHA1-Digest: Mq5P+1WX4g1bXZT4PLwUdQXQD8E=
+
+Name: assets/www/redesign-images/game-board/tile.jpg
+SHA1-Digest: Jv6m6EW8f36OuYTkGAFoV8dZ+Q0=
+
+Name: assets/www/redesign-images/purple-bg.png
+SHA1-Digest: VBQrZ86TEOXGyC7S2WVPAUScan8=
+
+Name: assets/www/scripts/lib/cordova-2.0.0.android.js
+SHA1-Digest: xW6szjWPDQx349fyJF9wB5rHltw=
+
+Name: assets/www/redesign-images/game-board/board-bg.png
+SHA1-Digest: vVjmZBekIO1HTBeaJdpuwWedv3s=
+
+Name: assets/millennial_left_arrow_disabled.png
+SHA1-Digest: GFjy9uGKKXQwwWgBXPDU/HiCe7c=
+
+Name: assets/www/redesign-images/arrows/orange.png
+SHA1-Digest: EP74MbzwNTVQCcZvo/uHqd/zzFY=
+
+Name: assets/VidButton_More_108x72.png
+SHA1-Digest: bM/P8jhaouvs4Qa3HErQBr+LUmM=
+
+Name: assets/www/ani_V2/assets/blink.png
+SHA1-Digest: PJCs0Ts+0cPGYi9Rrn8Dw8Rm2M0=
+
+Name: assets/www/snd/fail.mp3
+SHA1-Digest: Rs/OIr0FoXnecD5NQBryMJKGhRY=
+
+Name: assets/burstly.pub
+SHA1-Digest: 4Luz0Z/MFv2isLf67tSsF7BXjF8=
+
+Name: assets/www/redesign-images/chat/your-message/bottom-right.jpg
+SHA1-Digest: rxnyQZJrFsU7qzEQX7u+5k1K+pQ=
+
+Name: assets/www/ani_V2/assets/clouds_back.png
+SHA1-Digest: XaKTvdOjr0toAIMLZSzaJsJkML0=
+
+Name: assets/www/images/bunny.jpg
+SHA1-Digest: wJwhz1vS6YZMHx3RPDei3NH4EnQ=
+
+Name: assets/www/emails/images/bg-welcome.jpg
+SHA1-Digest: xxiwzaXYGD7utdIyAvsHgrjVEWI=
+
+Name: assets/www/redesign-images/chat/their-message/top-right.jpg
+SHA1-Digest: ViFhep0L3u/xvO4jkffTKUyYoc8=
+
+Name: assets/www/redesign-images/game-board/shuffle-button.png
+SHA1-Digest: sYieY7X3Ea5noqkxDfV5ms2/Ht4=
+
+Name: resources.arsc
+SHA1-Digest: yRFAbxSvpfg/D+dztRUumo6GbW4=
+
+Name: assets/www/redesign-images/buttons/signup-with-email.png
+SHA1-Digest: EyVxm/U/rVBI0vn0HipFTL9TgUA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 1kerx3CPOeshfuPEnp+J6hH2qWE=
+
+Name: res/drawable-xhdpi/twitterclose.png
+SHA1-Digest: LzSsj0na9mfdL2AFaKjVetdCzNI=
+
+Name: res/xml/cordova.xml
+SHA1-Digest: 2Z/LkO+10oBuUDnEaehfCtZF+vM=
+
+Name: assets/www/snd/ticktok.ogg
+SHA1-Digest: wouqkpKm9W8YXy5AhTMJtRxjKgs=
+
+Name: com/vdopia/client/android/package-summary.html
+SHA1-Digest: 2VLrhhPzFJeW9iLvqk+ci+SFlME=
+
+Name: assets/www/redesign-images/icons/medium-coins-pack.png
+SHA1-Digest: rsOBW+wZ4ee3qO9JtbEUsjrDhHs=
+
+Name: assets/www/redesign-images/buttons/no.png
+SHA1-Digest: IEdgt1wqgcoryQ0ocyRRryAKbfg=
+
+Name: bitmaps/bkgrnd.png
+SHA1-Digest: 7H3pHLvdvA23HSH2GjiEX876JYs=
+
+Name: assets/www/redesign-images/spinners/refresh-games.gif
+SHA1-Digest: oFQUosuAqAz/0nXdDeSiyw7DNKM=
+
+Name: assets/www/ani_V2/assets/coin.png
+SHA1-Digest: Y7OgO69uurycyy46MuHZscpBEew=
+
+Name: assets/www/fonts/HelveticaNeueLTStd-Cn/helveticaneueltstd-cn.eot
+SHA1-Digest: fMKmjGxZxuh1UfNmx5kR5X5MYoQ=
+
+Name: assets/www/scripts/loader-mobileweb.js
+SHA1-Digest: VH/CnvfKS8x2aTivcX0gy8Mwbu4=
+
+Name: com/vdopia/client/android/package-frame.html
+SHA1-Digest: 4GWxtAEHQh9GR6LMi0WaIGsa5t4=
+
+Name: classes.dex
+SHA1-Digest: B7SKN4ginkwjCOJGg9MheyezVsc=
+
+Name: assets/www/redesign-images/user-bonus-bg.png
+SHA1-Digest: YEKQUJ7yen5fgAyju3dPbnrJZLw=
+
+Name: assets/www/favicon.ico
+SHA1-Digest: /nZokgDCg1RgY9cy1JzcW4+NPsQ=
+
+Name: assets/www/redesign-images/buttons/continue.png
+SHA1-Digest: zHu4rcIpewoTjY8Ht42ggMGyvh4=
+
+Name: assets/www/fonts/geo/geo-regular.eot
+SHA1-Digest: uNPOBTmhJ9x0dAakzZ6ZYT4Gh7Y=
+
+Name: assets/www/redesign-images/icons/email.png
+SHA1-Digest: c7uV+PCkXbG4foWmR59ytsM345U=
+
+Name: assets/www/redesign-images/icons/warning.png
+SHA1-Digest: VU4V5V9x6aAwQs53dEUg6ipp9eg=
+
+Name: bitmaps/next_arrow_inactive.png
+SHA1-Digest: b0aYXcIdCJqMesee9QIzvxAk5EE=
+
+Name: assets/www/snd/explode.ogg
+SHA1-Digest: hxCWltr5KCLSQmw4cXYapWYNcuQ=
+
+Name: assets/millennial_close.png
+SHA1-Digest: 5XxYsmkG/kt9AZjBzcGhaoHrYLs=
+
+Name: res/raw/splash.png
+SHA1-Digest: a7qin6rR23UodIHZLsgsegMA/00=
+
+Name: assets/www/emails/images/play-button.jpg
+SHA1-Digest: R+r9eyIeI03cums/gtJsMoaYbUs=
+
+Name: assets/www/redesign-images/icons/coin.png
+SHA1-Digest: L5i+P/+JGXmdKuwBoGpA4fGV0j4=
+
+Name: assets/www/redesign-images/buttons/play-sample-game.png
+SHA1-Digest: 275ghy7tAnnTaQ2HevfH8N/WzTo=
+
+Name: assets/www/redesign-images/icons/small-coins-pack.png
+SHA1-Digest: 2xzPji+Qgk6ENQ3JkzWsznXmpvw=
+
+Name: bitmaps/close_icon.png
+SHA1-Digest: cX2sWGn5EyiySzy79H3AFpZ/lkY=
+
+Name: assets/back.png
+SHA1-Digest: BX2dGMoNf8QWAFj+t0FSqcJDYok=
+
+Name: assets/www/redesign-images/buttons/pay.png
+SHA1-Digest: MMp0Dzicuyr2VkXmSu8ytsUuRWQ=
+
+Name: assets/www/redesign-images/buttons/facebook.png
+SHA1-Digest: nYqryV3jarBBqcV4Vdj0kpAwf2E=
+
+Name: assets/www/fonts/slackey/slackey.svg
+SHA1-Digest: y888Y/q0VrOAmHjZ0BpBINYYIU0=
+
+Name: assets/www/snd/explode.mp3
+SHA1-Digest: EW+OAgLl5erWG4J1XHhS0z+9Ye8=
+
+Name: LICENSE.txt
+SHA1-Digest: dTF36wNXk3NZRvp51lzE8FW7KYQ=
+
+Name: assets/www/redesign-images/game-board/reset-button.png
+SHA1-Digest: XoDQtkHzNRjfHQr/2LbYWV7z+sE=
+
+Name: assets/www/redesign-images/chat/their-message/middle-right.jpg
+SHA1-Digest: SQRlFkmBOdJrRiZ+UJiFmtPpQj0=
+
+Name: assets/www/ani_V2/assets/rainbow_seq_57.png
+SHA1-Digest: hYRA2iBw93pC2umcN1BW3Jyt1mI=
+
+Name: res/drawable-mdpi/address_book_avatar.png
+SHA1-Digest: nrWsqed1eTQJ9sAs3L0PLCAqHY0=
+
+Name: assets/www/scripts/lib/cdv-plugin-fb-connect.android.js
+SHA1-Digest: pCtzqfKlX+VgCpEVu1UhfuoM/Wo=
+
+Name: assets/close-button.png
+SHA1-Digest: HOQm/TmBAA+UI5OORRlOh56YsxM=
+
+Name: res/drawable-ldpi/icon_push.png
+SHA1-Digest: WkRyCEojVXK9XJjrXrtYpAUTFOI=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: bzAabMAJqPYncA8bnvlzWQ6x5Bg=
+
+Name: assets/refresh.png
+SHA1-Digest: +pAe9R+Pcp/rC0kntOEebjxFCwY=
+
+Name: assets/www/ani_V2/assets/lightning_cloud_effect.png
+SHA1-Digest: Je7vB07+x3wK+XpXtQrvLrg10Rk=
+
+Name: assets/www/redesign-images/buttons/invite-friends.png
+SHA1-Digest: T7MLqbH7xJ9MvOY3Vq4QRVJ0XgE=
+
+Name: assets/www/emails/images/bg-share.jpg
+SHA1-Digest: NB1rm4H73rMYq2M0kNSDkC+bzZM=
+
+Name: assets/version.properties
+SHA1-Digest: Xp+QkyQ8+4b2B2affCuEVBpZsko=
+
+Name: assets/background-160.png
+SHA1-Digest: fpMHRqogzVCuHM3j2HnfihVBI8U=
+
+Name: assets/www/scripts/lib/json2.js
+SHA1-Digest: KK3CTA0y+RY0JAN0B2p5NbaWVXk=
+
+Name: assets/www/redesign-images/icons/mega-coins-pack.png
+SHA1-Digest: hPxT3UzJQCUJNXrLcmR6HaVd7aQ=
+
+Name: res/drawable-hdpi/address_book_avatar.png
+SHA1-Digest: y8jiQFelUysjOUyOZo7VLp2AaB0=
+
+Name: assets/www/redesign-images/chat/their-message/bottom-right.jpg
+SHA1-Digest: fvTvz119bVhIuM1vITMJs/7dqzc=
+
+Name: assets/www/redesign-images/game-board/pass-skip-button.png
+SHA1-Digest: YGsJCpAneFUnEMFnMvWL4HkMeI0=
+
+Name: assets/www/fonts/HelveticaNeueLTStd-HvCn/helveticaneueltstd-hvcn
+ .ttf
+SHA1-Digest: OLwyDt+NiNuzAYvC1Z5c6rWpDyc=
+
+Name: assets/www/redesign-images/game-board/bottom-yellow-bg.png
+SHA1-Digest: /zxF0nLUYBJ/au0DyMRyqooaSL4=
+
+Name: res/layout/main.xml
+SHA1-Digest: ZUoWoDLXRca3o9iKv0nod19VzHo=
+
+Name: assets/www/fonts/jandamanatee/jandamanatee.ttf
+SHA1-Digest: 8lrvDKzmv+hqdleSjURoMjA7dKs=
+
+Name: assets/www/redesign-images/chat/your-message/bottom-left.jpg
+SHA1-Digest: L86JayIHVoh1Anbh50S+TEvpPL0=
+
+Name: assets/www/redesign-images/one-shape-header-bg.png
+SHA1-Digest: Z9gU2Y1WLyTUBjGXln37K5OeFbk=
+
+Name: assets/www/redesign-images/icons/earned-coins.png
+SHA1-Digest: S5i2gEQdzbr5/Wwvc/+K2k4eTnc=
+
+Name: assets/www/ani_V2/assets/rainbow_seq_56.png
+SHA1-Digest: fDcHzqr/kybM2q+7OzD0jnyPtjU=
+
+Name: assets/www/index.html
+SHA1-Digest: /IaYZoABsp0iADrcCzp7a9S3rgY=
+
+Name: assets/www/ani_V2/assets/BG_blue.png
+SHA1-Digest: k05F5cYxgWqVisuwhejGXCrmJTs=
+
+Name: assets/www/fonts/slackey/slackey.ttf
+SHA1-Digest: p6W1yFobUFNnqZtZjjzIctFyNWM=
+
+Name: assets/www/redesign-images/chat/your-message/middle-left.jpg
+SHA1-Digest: axeYIHkPbzocOw8s7oZBWhHXP6M=
+
+Name: assets/millennial_right_arrow.png
+SHA1-Digest: KZ+C1GNQfKqZeVL0oJGcTwrT/po=
+
+Name: res/layout/friend_picker_list_section_header.xml
+SHA1-Digest: C/W3tAViARg2V4yCeEzWRFX/EBM=
+
+Name: assets/www/snd/click.mp3
+SHA1-Digest: /iFaoTlgsTdnB/sFx7OLLZ2NZso=
+
+Name: assets/www/redesign-images/avatars/random-opponent.png
+SHA1-Digest: I1hQ2F0LldVyEZWapL5GXvnO3Ok=
+
+Name: assets/www/snd/success.ogg
+SHA1-Digest: 39pWhInoKUvZ55c1wu1AfEukJpc=
+
+Name: bitmaps/refresh.png
+SHA1-Digest: /WvwVwmtnQQHzLHvw8rRcbIF1vY=
+
+Name: assets/www/emails/welcome.html
+SHA1-Digest: T5Unu6hPjHsuydV1UhBbHnIcO18=
+
+Name: res/layout/friend_picker_list_header.xml
+SHA1-Digest: 2Ew5pyqCNBXiTyDGa19Crew3Fu4=
+
+Name: assets/www/ani_V2/assets/rainingclouds_seq_07.png
+SHA1-Digest: 56FJiVsLJhoHqYyG7BK3k1806ck=
+
+Name: res/drawable-ldpi/address_book_avatar.png
+SHA1-Digest: sNAf4Fbt/4GiNmXfmRNwjCH+xSU=
+
+Name: assets/www/redesign-images/chat/your-message/top-middle.jpg
+SHA1-Digest: irFDGPnO9ji5Jq0WoJdNcXqnHjg=
+
+Name: assets/www/redesign-images/game-board/board-corner.png
+SHA1-Digest: lFnlZPRcvLkYad55DecfmNKwmns=
+
+Name: assets/www/fonts/jandamanatee/jandamanatee.woff
+SHA1-Digest: 417QepzIe4DgFQpGhjF/WUj7Rr4=
+
+Name: assets/www/redesign-images/arrows/dark-blue.png
+SHA1-Digest: DvQVPKpwS5F7nLQgl659WI+ld8g=
+
+Name: assets/www/redesign-images/players-selected-bg.png
+SHA1-Digest: d8JsAHSfJ5RTdt4zLFhctUQrDXo=
+
+Name: assets/millennial_close_disabled.png
+SHA1-Digest: M6RLa5u6tJHfMJciRiGTSDZqAQs=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: ZZ9B+Is/EGN8U89uwi0kNa1LbZM=
+
+Name: assets/www/redesign-images/arrow.jpg
+SHA1-Digest: eewNfk+MTJ9nz3TlwQFgZm34gcQ=
+
+Name: assets/millennial_right_arrow_disabled.png
+SHA1-Digest: 96660cgpVLPwRf15TEBmOpxWZRM=
+
+Name: assets/www/redesign-images/buttons/user-bonus.png
+SHA1-Digest: 8sOIKl0rSYXNq+q6OYxTFIHJd4E=
+
+Name: res/drawable-ldpi/friend_picker_no_avatar.png
+SHA1-Digest: kmYDR3b/UlxDkGN0xe9D5cgUgn8=
+
+Name: assets/www/redesign-images/arrows/green.png
+SHA1-Digest: q0favupKyITmaElIhdGv2xz9SBw=
+
+Name: assets/www/redesign-images/game-board/coins-total.png
+SHA1-Digest: PO9BuhurY5BHkc/V3xwL7eHCuG4=
+
+Name: assets/www/fonts/geo/geo-regular.svg
+SHA1-Digest: 3GCk0+xZY8FjImTi8GdLPNMZMi0=
+
+Name: assets/www/redesign-images/titles/orange.jpg
+SHA1-Digest: 0Dvy6y+fh+EE6BaYFmk2zDAUsWc=
+
+Name: assets/www/MINIMIZED
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/www/ani_V2/assets/tear2.png
+SHA1-Digest: 1UUF3FuacDvVD+95n348B/YnxsQ=
+
+Name: assets/www/snd/ticktok.mp3
+SHA1-Digest: 4ct3Wt84Ze8AIA5RTgFBeC7ruV8=
+
+Name: assets/www/redesign-images/titles/purple-big.jpg
+SHA1-Digest: qEPGER/KL/EsDEsR5BEsQvg/0p8=
+

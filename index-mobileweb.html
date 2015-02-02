@@ -1,0 +1,1022 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta http-equiv="Content-Language" content="en-US"/>
+	<meta name="author" content="Douglas Graves"/>
+	<meta name="copyright" content="&copy;2012 Rumpus Inc."/>
+	<meta name="robots" content="index,follow"/>
+	<meta name="description" content=""/>
+	<meta name="keywords" content=""/>
+    <script>
+        if (navigator.userAgent.toLowerCase().match(/android/)) {
+            if (window.devicePixelRatio >= 1.5) {
+                document.write('<meta content="width=640,initial-scale=0.50,maximum-scale=0.50,minimum-scale=0.50" name="viewport" />');
+                document.write('<meta content="True" name="HandheldFriendly" />');
+            }
+        }
+        else
+        {
+            document.write('<meta name="viewport" content="width=640,user-scalable=no" />');
+        }
+    </script>
+    
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<meta name="apple-mobile-web-app-stats-bar-style" content="black"/>
+
+	<title>What the Photo?</title>
+
+    <link href="styles/redesign.css" rel="stylesheet"/>
+    <link href="styles/common.css" rel="stylesheet"/>
+
+    <script>
+        if (navigator.userAgent.toLowerCase().match(/android/)) {
+           document.write('<link href="styles/android.css" rel="stylesheet"/>');
+        }
+		photo_id = 'T9i30TAEPBJhKrJQ';
+    </script>
+
+</head>
+<body>
+	<div id="fb-root"></div>
+	<div id="background"></div>
+	<div id="game">
+        <div id="game-lobby-screen" class="screen refresh-lobby" modals="friend-must-register coming-soon loading">
+            <div class="header-background"></div>
+            <div class="header main">
+                <div class="wtp-logo"></div>
+                <button class="add-new-game"></button>
+                <ul class="user-bonuses">
+                    <li class="coins click">
+                        <span class="icon"></span>
+                        <button></button>
+                        <span class="count">0</span>
+                    </li>
+                    <li class="bombs click">
+                        <span class="icon"></span>
+                        <button></button>
+                        <span class="count">0</span>
+                    </li>
+                    <li class="timers click">
+                        <span class="icon"></span>
+                        <button></button>
+                        <span class="count">0</span>
+                    </li>
+                </ul>
+            </div>
+            <div id="lobby-scroll">
+                <div>
+                    <div id="refresh-control" class="pull">
+                        <div class="text text-shadow pull">
+                            <img src="redesign-images/arrow.jpg"/>
+                            <div>Pull Down to Update...</div>
+                        </div>
+                        <div class="text text-shadow release">
+                            <img src="redesign-images/arrow.jpg"/>
+                            <div>Release to Update...</div>
+                        </div>
+                        <div class="text text-shadow update">
+                            <img src="redesign-images/spinners/refresh-games.gif" width="48px" height="48px"/>
+                            <div>Updating Games...</div>
+                        </div>
+                    </div>
+                    <div class="middle">                       
+                        <div class="your-move container">
+                            <div class="title text-shadow orange">YOUR MOVE!</div>
+                            <div class="spinner"></div>
+                            <div class="new-game list-item click">
+                                <button></button>
+                                <span class="text">Play a New Game!</span>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="random-opponent list-item click">
+                                <div class="avatar-wrapper">
+                                    <img class="avatar" src="redesign-images/avatars/random-opponent.png" />
+                                </div>
+                                <div class="text">
+                                    <div class="user-name">Play a</div>
+                                    <div class="whose-turn">Random Opponent!</div>
+                                </div>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="day-challenge list-item click">
+                                <div class="avatar-wrapper">
+                                    <img class="avatar" src="redesign-images/avatars/day-challenge.png" />
+                                </div>
+                                <div class="text">
+                                    <div class="user-name">Challenge</div>
+                                    <div class="whose-turn">of the Day!</div>
+                                </div>
+                                <div class="arrow"></div>
+                            </div>
+                            <div class="no-challenges">
+                                <h3>Want more photos to play?</h3>
+                                <p>Play a new game above with your friends!</p>
+                            </div>
+                            <ul>
+                                <li class="list-item delete preload">
+                                    <div class="round text-shadow">8</div>
+                                    <div class="avatar-wrapper">
+                                        <img class="avatar" src="redesign-images/avatars/default.png" />
+                                    </div>
+                                    <div class="user-text">
+                                        <div class="user-name">Anthony S.</div>
+                                        <div class="whose-turn">
+                                            <span class="move">Your move!</span>
+                                            <span class="quit">They quit</span>
+                                        </div>
+                                    </div>
+                                    <div class="last-played-time">
+                                        <div>Last played:</div>
+                                        <div>
+                                            <span class="time">48 secs</span>
+                                            <span> ago</span>
+                                            <div class="arrow"></div>
+                                        </div>
+                                    </div>
+                                    <button></button>
+                                    <div class="message"><span></span></div>
+                                </li>
+                            </ul>
+                        </div>    
+                        <div class="find-friends container">
+                            <div class="title text-shadow blue big">
+                                INVITE FRIENDS
+                                <mark>Invite your friends to play with you!</mark>
+                            </div>
+                            <div class="content">
+                                <div class="facebook list-item click">
+                                    <div class="count">22</div>
+                                    <span class="icon"></span>
+                                    <span class="text">Facebook</span>
+                                </div>
+                                <!--<div class="addressbook list-item click">
+                                    <span class="icon"></span>
+                                    <span class="text">Adressbook</span>
+                                </div>-->
+                                <div class="twitter list-item click">
+                                    <span class="icon"></span>
+                                    <span class="text">Twitter</span>
+                                </div>
+                            </div>
+                        </div> 
+                        <div class="their-move container">
+                            <div class="title text-shadow grey">THEIR MOVE</div>
+                            <ul>
+                                <li class="list-item nudge preload">
+                                    <div class="round text-shadow">4</div>
+                                    <div class="avatar-wrapper">
+                                        <img class="avatar" src="redesign-images/avatars/default.png" />
+                                    </div>
+                                    <div class="user-text">
+                                        <div class="user-name">Jonah S.</div>
+                                        <div class="whose-turn">
+                                            <span class="move">Their move</span>
+                                            <span class="quit">They quit</span>
+                                        </div>
+                                    </div>
+                                    <div class="last-played-time">
+                                        <div>Last played:</div>
+                                        <div>
+                                            <span class="time">20 mins</span>
+                                            <span> ago</span>
+                                        </div>
+                                    </div>
+                                    <button></button>
+                                    <div class="message">10</div>
+                                </li>  
+                            </ul>
+                        </div>   
+                        <div class="get-items container">
+                            <div class="title text-shadow green">
+                                GET ITEMS!
+                            </div>
+                            <div class="content">
+                                <div class="items">
+                                    <div class="get-bomb list-item">
+                                        <span class="icon"></span>
+                                        <span class="text">Blast away useless<br/>letters when<br/>guessing!</span>
+                                    </div>
+                                    <div class="get-timer list-item">
+                                        <span class="icon"></span>
+                                        <span class="text">Keep time still to<br/>have longer to<br/>guess!</span>
+                                    </div>
+                                </div>
+                                <button class="shop"></button>
+                            </div>
+                        </div> 
+                    </div>
+                    <div class="footer">
+                        <button class="logout"></button>
+                        <div class="rumpus-logo">Rumpus</div>
+                        <div class="copyright">&copy; 2012 Rumpus, Inc.</div>
+                    </div>
+                    <div id="ajsfix"></div> <!-- for android pull to refresh height fix -->
+                </div>
+            </div>         
+        </div>
+        
+        <div id="game-login-screen" class="one-shape screen">
+            <div class="content">
+                <div class="title text-shadow blue big">
+                    CONNECT TO PLAY!
+                    <mark>One tap signup process, it saves time!</mark>
+                </div>
+                <button class="facebook"></button>
+                <div class="text">Quickly &amp; easily play with your friends!</div>
+            </div>
+            <div class="content login-via-email">
+                <button class="email"></button>
+                <div class="text">Already have an account? Tap to Log In!</div>
+            </div>
+        </div>   
+        
+        <div id="game-create-account-screen" class="one-shape screen" modals="please-wait unavailable-username">
+			<div class="content">
+                <div class="title text-shadow green">
+                    EMAIL LOG IN
+                </div>
+                <form>
+                    <label for="email">Please enter your email address...</label>
+                    <input class="default" name="email" defaultValue="Email*" type="email" />
+                    <label for="username">Help friends find you!</label>
+                    <input class="default" name="username" defaultValue="Username (optional)" type="text" maxlength="10" autocapitalize="off" autocorrect="off" />
+                    <input type="submit" class="submit" />
+                </form>
+                <button class="continue"></button>
+                <div class="text or">or</div>
+                <button class="facebook"></button>
+            </div>
+        </div>
+                
+        <div id="game-enter-password-screen" class="one-shape screen" modals="logging-in please-wait">
+			<div class="content">
+                <div class="title text-shadow green">
+                    ENTER YOUR PASSWORD
+                </div>
+                <form>
+                    <label for="email">Email</label>
+                    <input class="default" name="email" defaultValue="Email*" type="email" />
+                    <label for="password">Password</label>
+                    <input name="password" type="password" maxlength="20" />
+                    <input type="submit" class="submit" />
+                </form>
+                <div class="error-message red">Password Incorrect</div>
+                <a class="forgot-password">Forgot Password?</a>
+                <button class="login"></button>
+                <button class="back">Back</button>
+            </div>
+        </div>
+
+        <div id="game-get-password-screen" class="one-shape screen" modals="logging-in please-wait">
+			<div class="content">
+                <div class="title text-shadow green">
+                    GET PASSWORD
+                </div>
+                <form>
+                    <label for="email">Enter your email address...</label>
+                    <input class="default" name="email" defaultValue="Email*" type="email" />
+                    <input type="submit" class="submit" />
+                </form>
+                <button class="continue"></button>
+                <button class="back">Back</button>
+            </div>
+        </div>
+        
+        <div id="game-password-sent-screen" class="one-shape screen">
+			<div class="content">
+                <div class="title text-shadow green">
+                    PASSWORD SENT
+                </div>
+                <div class="text">
+                    Your password has been sent.
+                    <br/>
+                    Check your email and try again.
+                </div>
+                <button class="back">Back</button>
+            </div>
+        </div>
+        
+        <div id="game-round-screen" class="one-shape screen">
+			<div class="content">
+                <div class="title text-shadow orange">
+                    GET READY!
+                </div>
+                <div class="container">
+                    <div class="round-number text-shadow">1</div>
+                    <span class="text">with</span>
+                    <div class="user">
+                        <div class="avatar-wrapper">
+                            <img class="avatar" src="redesign-images/avatars/default.png" />
+                        </div>
+                        <div class="user-name">Heath B<span>.</span></div>
+                    </div>
+                </div>
+                               
+                <button class="play"></button>
+                <button class="back">Back</button>
+            </div>
+        </div>
+        
+        <div id="game-watch-screen" class="one-shape screen">
+			<div class="content">
+                <div class="title text-shadow orange">
+                    DID THEY GUESS YOUR PHOTO?
+                </div>
+                <div class="container">
+                    <div class="round-number text-shadow">1</div>
+                    <span class="text">with</span>
+                    <div class="user">
+                        <div class="avatar-wrapper">
+                            <img class="avatar" src="redesign-images/avatars/default.png" />
+                        </div>
+                        <div class="user-name">Heath B<span>.</span></div>
+                    </div>
+                </div>
+                <div class="text watch">Watch them guess:</div>
+                <div class="your-caption"></div>
+                <button class="watch"></button>
+                <button class="skip">Skip</button>
+                <button class="back">Back</button>
+            </div>
+        </div>
+        
+        <div id="game-shop-coins-screen" class="one-shape screen shop" modals="please-wait purchase-success purchase-fail coming-soon">
+            <div class="header main">
+                <div class="wtp-logo"></div>
+                <ul class="user-bonuses">
+                    <li class="coins click">
+                        <span class="icon"></span>
+                        <button></button>
+                        <span class="count">0</span>
+                    </li>
+                    <li class="bombs click">
+                        <span class="icon"></span>
+                        <button></button>
+                        <span class="count">0</span>
+                    </li>
+                    <li class="timers click">
+                        <span class="icon"></span>
+                        <button></button>
+                        <span class="count">0</span>
+                    </li>
+                </ul>
+            </div>
+			<div class="content">
+                <div class="title text-shadow orange big">
+                    COINS
+                    <mark>Use coins to get more dynamite and stopwatches!</mark>
+                </div>
+                <ul>
+                    <li class="small-pack">
+                        <div class="icon"></div>
+                        <div class="text"><span>6,000 Coins</span></div><mark></mark>
+                        <button class="text-shadow">$1.99</button>
+                        <span class="identifier" />
+                    </li>
+                    <li class="medium-pack">
+                        <div class="icon"></div>
+                        <div class="text"><span>18,000 Coins</span><mark>SAVE 15%</mark></div>
+                        <button class="text-shadow">$4.99</button>
+                        <span class="identifier" />
+                    </li>
+                    <li class="large-pack">
+                        <div class="icon"></div>
+                        <div class="text"><span>45,000 Coins</span><mark>SAVE 33%</mark></div>
+                        <button class="text-shadow">$9.99</button>
+                        <span class="identifier" />
+                    </li>
+                </ul>
+                <button class="back">Back</button>
+            </div>
+        </div>
+        
+        <div id="game-shop-items-screen" class="one-shape screen shop" modals="please-wait purchase-more-coins purchase-success purchase-fail">
+            <div class="header main">
+                <div class="wtp-logo"></div>
+                <ul class="user-bonuses">
+                    <li class="coins click">
+                        <span class="icon"></span>
+                        <button></button>
+                        <span class="count">0</span>
+                    </li>
+                    <li class="bombs click">
+                        <span class="icon"></span>
+                        <button></button>
+                        <span class="count">0</span>
+                    </li>
+                    <li class="timers click">
+                        <span class="icon"></span>
+                        <button></button>
+                        <span class="count">0</span>
+                    </li>
+                </ul>
+            </div>
+			<div class="content">
+                <div class="title text-shadow orange big">
+                    DYNAMITE &amp; STOPWATCHES
+                    <mark>Use these items to make guessing easier!</mark>
+                </div>
+                <ul>
+                    <li class="combo-pack">
+                        <div class="icon"></div>
+                        <div class="text">
+                            <span>Combo Pack</span>
+                            <mark>
+                                <mark>20 Dynamite &amp; 10 Stopwatches</mark>
+                                <span></span>
+                            </mark>
+                        </div>
+                        <button class="text-shadow">
+                            <span></span>
+                            <img src="redesign-images/icons/coin.png"/>    
+                        </button>
+                        <span class="identifier" />
+                    </li>
+                    <li class="small-bombs-pack">
+                        <div class="icon"></div>
+                        <div class="text">
+                            <span>10 Dynamite</span>
+                        </div>
+                        <button class="text-shadow">
+                            <span></span>
+                            <img src="redesign-images/icons/coin.png"/>    
+                        </button>
+                        <span class="identifier" />
+                    </li>
+                    <li class="medium-bombs-pack">
+                        <div class="icon"></div>
+                        <div class="text">
+                            <span>20 Dynamite</span>
+                            <mark>
+                                <span></span>
+                            </mark>
+                        </div>
+                        <button class="text-shadow">
+                            <span></span>
+                            <img src="redesign-images/icons/coin.png"/>    
+                        </button>
+                        <span class="identifier" />
+                    </li>
+                    <li class="small-timers-pack">
+                        <div class="icon"></div>
+                        <div class="text">
+                            <span>4 Stopwatches</span>
+                        </div>
+                        <button class="text-shadow">
+                            <span></span>
+                            <img src="redesign-images/icons/coin.png"/>    
+                        </button>
+                        <span class="identifier" />
+                    </li>
+                    <li class="medium-timers-pack">
+                        <div class="icon"></div>
+                        <div class="text">
+                            <span>10 Stopwatches</span>
+                            <mark>
+                                <span></span>
+                            </mark>
+                        </div>
+                        <button class="text-shadow">
+                            <span></span>
+                            <img src="redesign-images/icons/coin.png"/>    
+                        </button>
+                        <span class="identifier" />
+                    </li>
+                </ul>
+                <button class="back">Back</button>
+            </div>
+        </div>
+        
+        <div id="game-intro-screen" class="one-shape screen">
+			<div class="content">
+                <h3>Welcome!</h3>
+                <p>Wanna quickly play?</p>
+                <button class="play-sample"></button>
+                <h3 class="or">or</h3>
+                <p class="or">Ready to play against your friends?</p>
+                <button class="get-started"></button>
+            </div>
+        </div>
+        
+        <div id="game-answer-screen" class="one-shape screen" modals="photo-error photo-processing photo-uploading facebook-posting">
+            <canvas id="myCanvas" width="160" height="160" class="preload"></canvas>
+            <div class="content">
+                <div class="title text-shadow green">
+                    DESCRIBE PHOTO
+                </div>
+                <img class="input-photo" src="#" alt="" />
+                <form autocorrect="off" autocapitalize="off">
+                    <label for="answer">Tell us what it is in one word... <mark>(8 characters max)</mark></label>
+                    <input class="answer-input-field default" name="answer" defaultValue="What is it?" type="text" maxlength="8" />
+                    <input type="submit" class="submit" />
+                </form>
+                <div id="chb-public-to-wall" class="checkbox-wrapper public-to-wall click" name="public-to-wall">
+                    <div class="checkbox"></div>
+                    <div class="text">
+                        <h3>Public Challenge to My Wall</h3>
+                        <p>Share your challenge with your friends!</p>
+                    </div>
+                </div>   
+                <button class="continue"></button>
+                <button class="back">Back</button>
+            </div>
+        </div>
+
+        <div id="game-get-photo-screen" class="one-shape screen" modals="photo-error photo-processing photo-uploading facebook-posting">
+			<div class="content">
+                <div class="title text-shadow green">
+                    <span class="get-ready">GET A PHOTO TO PLAY</span>
+                    <span class="your-turn">YOUR TURN</span>
+                </div>
+                <div class="subtitle">From Your Device</div>
+                <button class="take-photo"></button>
+                <button class="upload-photo"></button>
+                <div class="thumbnails">
+                    <div class="subtitle use-resent-photo">Previously Used Photos</div>
+                    <div id="get-photo-thumbnails-list" class="thumbnails-list">
+                        <ul>
+                            <li class="preload">
+                                <img src="#"/>
+                                <div class="text">giraffe</div>
+                                <button class="play"></button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <button class="back">Back</button>
+            </div>
+        </div>
+        
+        <div id="game-email-challenge-screen" class="one-shape screen" modals="photo-error photo-processing uncorrect-username">
+            <div class="content">
+                <div class="title text-shadow green">
+                    SEND CHALLENGE
+                </div>
+                <div class="container">
+                    <button class="facebook"></button>
+                    <div class="text or">or</div>
+                    <form autocorrect="off" autocapitalize="off">
+                        <label for="email-username">Enter a friend’s email address or username</label>
+                        <input class="default" name="email-username" defaultValue="Email or Username" type="text"/>
+                        <input type="submit" class="submit" />
+                    </form>
+                    <button class="continue disabled"></button>
+                </div>
+                <button class="back">Back</button>
+            </div>
+        </div>
+        
+        <div id="game-invite-friends-screen" class="one-shape screen">
+            <div class="content">
+                <div class="title text-shadow green">
+                    INVITE MORE FRIENDS 
+                </div>
+                <ul>
+                    <li class="facebook click">
+                        <div>via Facebook</div>
+                    </li>
+                    <li class="twitter click">
+                        <div>via Twitter</div>
+                    </li>
+                    <li class="addressbook click">
+                        <div>via Address Book</div>
+                    </li>
+                    <li class="email click">
+                        <div>via Email</div>
+                    </li>
+                </ul>
+                <button class="back">Back</button>
+            </div>
+        </div>
+        
+        <div id="game-select-friends-screen" class="one-shape screen">
+            <div class="header">
+                <div class="header-inner">
+                    <div class="selected-frends-count">24</div>
+                    <div class="text text-shadow">Players Selected</div>
+                    <button class="continue"></button>
+                </div>
+            </div>
+            <div id="select-friends-scroll" >
+                <div class="content-wrapper">
+                    <div class="content">
+                        <div class="title text-shadow blue big">
+                            SELECT FRIENDS TO PLAY 
+                            <mark>Select as many friends as you want for each photo!</mark>
+                        </div>
+                        <div class="subtitle">Recommended for You</div>
+                        <ul class="groups">
+                            <li class="checkbox-wrapper click cbs">
+                                <div class="icon"></div>
+                                <div class="text">
+                                    <h3>All CBS Friends</h3>
+                                    <p><span class="count">42</span> friends in your network</p>
+                                </div>
+                                <div class="checkbox"></div>
+                            </li> 
+                            <li class="checkbox-wrapper click eBay">
+                                <div class="icon"></div>
+                                <div class="text">
+                                    <h3>All eBay Friends</h3>
+                                    <p><span class="count">20</span> friends in your networkk</p>
+                                </div>
+                                <div class="checkbox"></div>
+                            </li>
+                            <li class="checkbox-wrapper click dotspotter">
+                                <div class="icon"></div>
+                                <div class="text">
+                                    <h3>All Dotspotter Friends</h3>
+                                    <p><span class="count">9</span> friends in your network</p>
+                                </div>
+                                <div class="checkbox"></div>
+                            </li> 
+                        </ul>
+                        <div class="subtitle">Active Players</div>
+                        <div class="invite-more-friends click">
+                            <button></button>
+                            <span class="text">Invite More Friends!</span>
+                            <div class="arrow"></div>
+                        </div>
+                        <ul class="persons">
+                            <li class="checkbox-wrapper click dotspotter">
+                                <div class="avatar-wrapper">
+                                    <img class="avatar" src="images/avatar-default.png" />
+                                </div>
+                                <div class="text">
+                                    <h3>Alex Finlayson</h3>
+                                </div>
+                                <div class="checkbox"></div>
+                            </li> 
+                            <li class="checkbox-wrapper click dotspotter">
+                                <div class="avatar-wrapper">
+                                    <img class="avatar" src="images/avatar-default.png" />
+                                </div>
+                                <div class="text">
+                                    <h3>Anthony Soohoo</h3>
+                                </div>
+                                <div class="checkbox"></div>
+                            </li> 
+                            <li class="checkbox-wrapper click dotspotter">
+                                <div class="avatar-wrapper">
+                                    <img class="avatar" src="images/avatar-default.png" />
+                                </div>
+                                <div class="text">
+                                    <h3>Anthony Soohoo</h3>
+                                </div>
+                                <div class="checkbox"></div>
+                            </li> 
+                            <li class="checkbox-wrapper click dotspotter">
+                                <div class="avatar-wrapper">
+                                    <img class="avatar" src="images/avatar-default.png" />
+                                </div>
+                                <div class="text">
+                                    <h3>Anthony Soohoo</h3>
+                                </div>
+                                <div class="checkbox"></div>
+                            </li> 
+                            <li class="checkbox-wrapper click dotspotter">
+                                <div class="avatar-wrapper">
+                                    <img class="avatar" src="images/avatar-default.png" />
+                                </div>
+                                <div class="text">
+                                    <h3>Anthony Soohoo</h3>
+                                </div>
+                                <div class="checkbox"></div>
+                            </li> 
+                            <li class="checkbox-wrapper click dotspotter">
+                                <div class="avatar-wrapper">
+                                    <img class="avatar" src="images/avatar-default.png" />
+                                </div>
+                                <div class="text">
+                                    <h3>Anthony Soohoo</h3>
+                                </div>
+                                <div class="checkbox"></div>
+                            </li> 
+                        </ul>
+                        <button class="back">Back</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+               
+        <div id="game-board-screen" class="screen" modals="board-loading">
+            <div class="header block game">
+                <div class="shield"></div>
+                <div class="header-inner-wrapper">
+                    <div class="round text-shadow">8</div>
+                    <div class="header-inner">
+                        <div class="details">
+                            <div class="avatar-wrapper">
+                                <img class="avatar" src="redesign-images/avatars/default.png" />
+                            </div>
+                            <div class="whose-photo">
+                                <div class="your-turn">
+                                    You are guessing<br/>
+                                    <span class="user-name limitHieght"></span>’s photo!
+                                </div>
+                                <div class="their-turn">
+                                    You are watching<br/>
+                                    <span class="user-name limitHieght"></span> guess!
+                                </div>
+                                <div class="cotd">Challenge of the Day!</div>
+                            </div>
+                        </div>
+                        <div id="reward" class="coin-total"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="middle block">
+                <div class="shield"></div>
+
+                <div class="game-board-wrapper">
+                    <img id="game-board-preload" class="preload" width="250" height="250"/>
+                    <img id="game-board-replay-preload" class="preload" width="250" height="250"/>
+                    <img id="game-board" width="250" height="250"/>
+                    <div id="tiles-container">
+                        <div class="inner">
+                            <div class="blue-tile preload"><div class="blue-tile-inner"></div></div>
+                        </div>
+                    </div>
+                    <div id="notification-container">
+                        <div id="won-notification" class="notification">
+                            <div class="notification-container">
+                                <h3>You got it!</h3>
+                            </div>
+                        </div>
+                        <div id="lost-notification" class="notification">
+                            <div class="notification-container">
+                                <h3>Uh-oh, you lost!</h3>
+                            </div>
+                        </div>
+                        <div id="failed-notification" class="notification">
+                            <div class="notification-container">
+                                <h3>Guess again!</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="corners">
+                        <div class="top-left"></div>
+                        <div class="top-right"></div>
+                        <div class="bottom-right"></div>
+                        <div class="bottom-left"></div>
+                    </div>
+                    <div class="controls">
+                        <button id="pass"><div></div></button>
+                        <button id="message"><div id="msgcount"></div></button>
+                        <button id="reset-tiles"><div></div></button>
+                        <button id="shuffle-tiles"><div></div></button>
+                    </div>
+                </div>
+            </div>    
+			<div class="footer block">
+                <div class="shield"></div>
+				<ol id="answer-tiles">
+                    <li class="empty-tile preload"></li>
+                </ol>
+                <div class="game-tiles-block">
+                    <div>
+                        <ol id="game-tiles" class="button-container">
+                            <li class="button preload"><div button="true" class="letter text-shadow"></div></li>
+                        </ol>
+                        <div class="help-buttons">
+                            <button class="bomb"></button>
+                            <button class="timer"></button>
+                        </div>
+                    </div>
+                </div>
+			</div>
+		</div>
+                
+        <div id="game-won-screen" class="screen animated">
+			<div class="content">
+                <div class="animation-container"></div>
+                <div class="reward container">
+                    <div class="title text-shadow green">
+                        <span class="your-turn">YOU GOT IT!</span>
+                        <span class="their-turn">THEY GOT IT!</span>
+                    </div>
+                    <div class="text">
+                        <span class="wonturn">You've</span> earned...
+                        <div class="final-reward-wrapper">
+                            <div class="coins-icon"></div>
+                            <span class="final-reward">80</span>
+                            <span>Coins</span>
+                        </div>
+                    </div>
+
+                </div>
+                
+                <button class="chat container text-shadow">
+                    <div class="icon"></div>
+                    Chat with <span class="user-name">Douglas</span>!
+                </button>
+                
+                <div class="share container">
+                    <div class="title text-shadow purple big">
+                        SHARE
+                        <mark>Tell friends about your game!</mark>
+                    </div>
+                    <div class="facebook list-item click">
+                        <span class="icon"></span>
+                        <span class="text">on Facebook</span>
+                    </div>
+                    <div class="twitter list-item click">
+                        <span class="icon"></span>
+                        <span class="text">on Twitter</span>
+                    </div>
+                    <button class="continue">Continue</button>
+                </div> 
+                
+                
+            </div>
+        </div>
+        
+        <div id="game-lost-screen" class="screen animated">
+			<div class="content">
+                <div class="animation-container"></div>
+                <div class="message container">
+                    <div class="title text-shadow green">UH-OH!</div>
+                    <div class="text">
+                        <div class="cotd">
+                            You couldn't guess<br/>the Challenge of the Day!
+                        </div>
+                        <div class="you-lost">
+                            You couldn’t guess<br/>
+                            <span class="user-name">player</span>’s<br/>
+                            photo! 
+                        </div>
+                        <div class="they-lost">
+                            <span class="user-name">They</span><br/>
+                            couldn't guess<br/>
+                            your photo!                        
+                        </div>
+                    </div>
+                </div>
+                
+                <button class="chat container text-shadow">
+                    <div class="icon"></div>
+                    Chat with <span class="user-name">Douglas</span>!
+                </button>
+                
+                <div class="share container">
+                <!-- 
+                    <div class="title text-shadow purple big">
+                        SHARE
+                        <mark>Tell friends about your game!</mark>
+                    </div>
+                    <div class="facebook list-item click">
+                        <span class="icon"></span>
+                        <span class="text">on Facebook</span>
+                    </div>
+                    <div class="twitter list-item click">
+                        <span class="icon"></span>
+                        <span class="text">on Twitter</span>
+                    </div> -->
+                    <button class="continue">Continue</button>
+                </div> 
+                
+            </div>
+        </div>
+        
+        <div id="game-chatroom-screen" class="screen">
+            <div class="header game">
+                <div class="header-inner-wrapper">
+                    <div class="round text-shadow">1</div>
+                    <div class="header-inner">
+                        <div class="details">
+                            <div class="avatar-wrapper">
+                                <img class="avatar" src="redesign-images/avatars/default.png" />
+                            </div>
+                            <div class="whose-photo">
+                               <div>Chat with <span id="chatRoomOppName" class="user-name">opponent</span><span>.</span></div>
+                            </div>
+                        </div>
+                        <button class="close"></button>
+                    </div>
+                </div>
+            </div>
+            <div class="middle">
+                <div id="chat-scroll">
+                    <ul>
+                        <li class="your-message preload">
+                            <div class="message-container">
+                                <div>Hello</div>
+                            </div>
+                        </li>
+                        <li class="their-message preload">
+                            <div class="message-container">
+                                <div>Hello</div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div id="chatroomfooter" class="footer">
+                <form>
+                    <textarea id="chatroominput" class="message-input" name="message-input" rows="1"/></textarea>
+                    <input id="chatroomsend" type="button" class="send disabled" value="send"/>
+                </form>
+            </div>
+        </div>
+
+        
+        
+        <div class="modals">
+            <div class="photo-uploading modal">
+				<div class="modal-container">
+					<div class="uploading-status"><div><div><div></div></div></div></div>
+                    <div class="text">Uploading...</div>
+				</div>
+			</div>
+            <div class="photo-error modal" parent-screens="">
+				<div class="modal-container">
+					<div class="uploading-status"></div>
+                    <div class="text">Photo upload failed...</div>
+				</div>
+			</div>
+            <div class="uncorrect-username modal warning">
+				<div class="modal-container">
+					<h3>Username Not Found</h3>
+				</div>
+			</div>
+            <div class="unavailable-username modal warning">
+				<div class="modal-container">
+					<h3>Username Unavailable</h3>
+				</div>
+			</div>
+            <div class="photo-processing modal wait">
+				<div class="modal-container">
+					<h3>Processing Photo...</h3>
+				</div>
+			</div>
+            <div class="loading modal wait">
+				<div class="modal-container">
+					<h3>Loading...</h3>
+				</div>
+			</div>
+            <div class="board-loading modal wait">
+				<div class="modal-container">
+					<h3>Loading...</h3>
+				</div>
+			</div>
+            <div class="facebook-posting modal">
+                <div class="modal-container">
+                    <h3>Posting to Facebook...</h3>
+                </div>
+            </div>
+            <div class="friend-must-register modal">
+                <div class="modal-container">
+                    <h3>Your photo has been sent.</h3>
+                </div>
+            </div>
+            <div class="please-wait modal">
+                <div class="modal-container">
+                    <h3>Please wait...</h3>
+                </div>
+            </div>
+            <div class="coming-soon modal">
+                <div class="modal-container">
+                    <h3>Coming Soon!</h3>
+                </div>
+            </div>
+            <div class="purchase-success modal">
+                <div class="modal-container">
+                    <h3>Transaction Complete!</h3>
+                </div>
+            </div>
+            <div class="purchase-fail modal">
+                <div class="modal-container">
+                    <h3>Transaction failed. Please try again.</h3>
+                </div>
+            </div>
+            <div class="logging-in modal">
+                <div class="modal-container">
+                    <h3>Logging you in...</h3>
+                </div>
+            </div>
+            <div class="purchase-more-coins modal">
+                <div class="modal-container">
+                    <div class="title text-shadow green">NOT ENOUGH COINS!</div>
+                    <div class="text">
+                        You actually need more coins to purchase this item.<br/>
+                        Would you like to get more coins?
+                    </div>
+                    <div class="buttons">
+                        <button class="no"></button>
+                        <button class="yes"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    
+    <script src="scripts/lib/modernizr.js"></script>
+    <script src="scripts/loader-mobileweb.js"></script>
+</body>
+</html>
+
+
+
+
